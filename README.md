@@ -8,3 +8,7 @@ b = a-b
 a = a-b
 print("the value of a is:",a)
 print("the value of b is:",b)
+programme for finding sum of two numbers
+m = int(input("enter any number")
+n = int(input("enter any number")
+print("m+n=",m+n)
